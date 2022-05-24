@@ -4,7 +4,7 @@
   
 ### A passionate web developer from Seattle, USA
 
-👨‍💻 All of my projects are available at [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
+👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
 
 📫 How to reach me: thomasjacka@gmail.com
 
@@ -13,9 +13,9 @@
 ## Connect with me:
 
 <br>
-  
-<a href="https://twitter.com/_thomasjacka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_thomasjacka" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/thomasjacka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomasjacka" height="30" width="40" /></a>
+<a href="https://twitter.com/_thomasjacka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_thomasjacka" height="30" width="40" /></a>
 
 <br>
 
