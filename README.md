@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Thomas 
 
-
+<br>
   
 ### A passionate web developer from Seattle, USA
 
