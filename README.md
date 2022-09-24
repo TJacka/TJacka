@@ -2,6 +2,8 @@
   
 # Hi 👋, I'm Thomas 
   
+<br> 
+  
 ### A passionate web developer from Seattle, USA
 
 👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
@@ -29,6 +31,8 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjacka&show_icons=true&locale=en&layout=compact" alt="tjacka" /></p>
 
+<br> 
+  
 <h3>My Codewars rank:</h3>
 <p>
 <img src="https://www.codewars.com/users/TJacka/badges/large"/>
