@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://i.ibb.co/YcKccMh/linkedinbanner.jpg>
   
 # Hi 👋, I'm Thomas 
   
