@@ -10,8 +10,6 @@
 
 👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
 
-📫 How to reach me: thomasjacka@gmail.com
-
 <br> 
   
 ## Connect with me:
