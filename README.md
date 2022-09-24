@@ -4,7 +4,7 @@
   
 <br> 
 
-# Hi 👋, I'm Thomas 
+## Hi 👋, I'm Thomas 
 
 ### A passionate web developer from Seattle, USA
 
