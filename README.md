@@ -34,6 +34,7 @@
 <br> 
   
 <h3>My Codewars rank:</h3>
+<br> 
 <p>
 <img src="https://www.codewars.com/users/TJacka/badges/large"/>
 </p>
