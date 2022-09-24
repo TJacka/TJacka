@@ -6,7 +6,9 @@
 
 # Hi 👋, I'm Thomas 
 
-## A passionate web developer from Seattle, USA
+<br>
+  
+### A passionate web developer from Seattle, USA
 
 👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
 
