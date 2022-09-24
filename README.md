@@ -29,9 +29,9 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjacka&show_icons=true&locale=en&layout=compact" alt="tjacka" /></p>
 
-<h3 align="center">My Codewars rank:</h3>
-<p align="left">
+<h3>My Codewars rank:</h3>
+<p>
 <img src="https://www.codewars.com/users/TJacka/badges/large"/>
 </p>
   
-  </div>
+</div>
