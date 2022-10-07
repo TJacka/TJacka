@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/YcKccMh/linkedinbanner.jpg" border="0">
+<img src="https://i.ibb.co/vjfCyFt/profilebanner.png" border="0">
   
 <br> 
 
