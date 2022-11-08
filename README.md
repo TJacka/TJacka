@@ -8,7 +8,7 @@
 
 <br>
   
-### A passionate web developer from Seattle, USA
+### A full-stack Javascript web developer from Seattle, USA
 
   <br>
   
