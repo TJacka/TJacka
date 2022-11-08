@@ -15,8 +15,6 @@
 👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
 
 <br> 
-
-![](https://komarev.com/ghpvc/?username=TJacka&color=blue)
   
 ## Connect with me:
 
@@ -45,5 +43,7 @@
 <p>
 <img src="https://www.codewars.com/users/TJacka/badges/large"/>
 </p>
+  
+![](https://komarev.com/ghpvc/?username=TJacka&color=blue)
   
 </div>
