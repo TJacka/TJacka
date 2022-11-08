@@ -43,7 +43,7 @@
 <p>
 <img src="https://www.codewars.com/users/TJacka/badges/large"/>
 </p>
-  
+<br>
 ![](https://komarev.com/ghpvc/?username=TJacka&color=blue)
   
 </div>
