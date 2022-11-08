@@ -8,7 +8,7 @@
 
 <br>
   
-### A full-stack Javascript web developer from Seattle, USA
+### I'm a full-stack Javascript web developer from Seattle, USA who wants to be your next software engineer!
 
   <br>
   
