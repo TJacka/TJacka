@@ -45,6 +45,6 @@
 </p>
 <br>
   
-![](https://komarev.com/ghpvc/?username=TJacka&color=blue)
+![](https://komarev.com/ghpvc/?username=TJacka&color=blue&label=GITHUB+PROFILE+VIEWS)
   
 </div>
