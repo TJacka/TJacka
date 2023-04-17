@@ -4,7 +4,7 @@
 
 <br>
   
-### A full-stack Javascript web developer from Seattle, USA <br><br> who wants to be your next software engineer!
+### A data analyst interested in helping businesses of all kinds acheive maximum success!
 
   <br>
   
