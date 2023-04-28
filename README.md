@@ -8,7 +8,7 @@
 
   <br>
   
-👨‍💻 Please find my portfolio here: [https://tjacka.github.io/portfolio/](https://tjacka.github.io/portfolio/)
+👨‍💻 Please find my portfolio here: [https://sites.google.com/view/thomasjacka/] (https://sites.google.com/view/thomasjacka/)
 
 <br> 
   
