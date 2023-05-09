@@ -2,10 +2,6 @@
 
 # Hi 👋, I'm Thomas 
 
-<br>
-  
-### A data analyst interested in helping businesses of all kinds acheive maximum success!
-
   <br>
   
 👨‍💻 Please find my portfolio here: https://sites.google.com/view/thomasjacka/
