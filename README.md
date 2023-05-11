@@ -2,10 +2,6 @@
 
 # Hi 👋, I'm Thomas 
 
-  <br>
-  
-👨‍💻 Please find my portfolio here: https://sites.google.com/view/thomasjacka/
-
 <br> 
   
 ## Connect with me:
