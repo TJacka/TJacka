@@ -4,6 +4,10 @@
 
 <br> 
   
+### A digital creative & software engineer with a passion for big data. 
+  
+<br>  
+  
 ## Connect with me:
 
 <br>
