@@ -4,7 +4,7 @@
 
 <br> 
   
-### A software engineer & digital creative with a passion for big data. 
+### Software engineer & digital creative with a passion for big data. 
   
 <br>  
   
